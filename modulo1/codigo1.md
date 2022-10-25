@@ -2,11 +2,16 @@
 
 ![Ejemplo criptoanálisis ADFGVX_2](https://user-images.githubusercontent.com/114906778/197470081-76eeea95-8e05-43a9-9e7a-f1cfda9e3ddf.png)
 
-  Fue inventado por **Fritz Nebel**(1891-1977) en 1917. 
+  Fue inventado por **Fritz Nebel**(1891-1977) en 1917.
   
+  ![FRITZ](https://user-images.githubusercontent.com/114906778/197826441-d6db9c33-ffe0-4639-88c7-2051d695e8b5.jpg)
+
   
   Fue escogida por el Alto Mando alemán como la más segura para cifrar sus comunicaciones durante la Primera Guerra Mundial. Pero más tarde sería descifrada
   por el criptógrafo francés **Georges Painvin**.
+  
+  ![georges](https://user-images.githubusercontent.com/114906778/197826499-1592ea7c-73f1-49ef-9b84-98652f8487ba.png)
+
   
   
   Las lertas ADFGVX fueron elegidas para dar nombre a líneas y columnas en la matriz de sustitución debido a que debian ser retrasmitidas por telégrafo o por radio de 
