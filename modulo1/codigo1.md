@@ -22,7 +22,7 @@
   
   Tanto el emisor como el receptor debían utilizar la misma tabla.
   
-  ### EJEMPLO
+  ### PASOS A SEGUIR PARA CIFRAR EN CÓDIGO ADFGVX
   
   - En primer lugar sustituimos cada letra por su equivalente en la tabla. 
 
