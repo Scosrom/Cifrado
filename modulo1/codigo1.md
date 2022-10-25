@@ -30,12 +30,18 @@ Por ejemplo la letra "E" seria "FF"
 
 ![Tabla ADFGX_2](https://user-images.githubusercontent.com/114906778/197822832-e629b11c-e3c6-4914-971b-6e8bd3004970.png)
 
+Si ciframos la palabra Sandra seria: 
+  
+  |Texto a cifrar|    ADFGVX         |
+  | ------------ | ----------------- |
+  | Sandra       | GD DD GA DF DX DD |
+  
+  - En segundo lugar añadimos una palabra en clave para alterar el orden de las Columnas. 
 
-  
-  |Texto a cifrar| |    ADFGVX         |
-  | ------------ | | ----------------- |
-  | Sandra       | | GD DD GA DF DX DD |
-  
+  | Clave         | C L A V E|
+  | Texto a cifrar| G D D D G|
+                  | A D F D X|
+                  | D D      |
   
 
 
