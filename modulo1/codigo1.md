@@ -24,10 +24,20 @@
   
   ###EJEMPLO
   
-  |Texto a cifrar| |ADFGVX     |
-  | ------------ | | --------- |
-  | Sandra       | |  
+  - En primer lugar sustituimos cada letra por su equivalente en la tabla. 
+
+Por ejemplo la letra "E" seria "FF"
+
+![Tabla ADFGX_2](https://user-images.githubusercontent.com/114906778/197822832-e629b11c-e3c6-4914-971b-6e8bd3004970.png)
 
 
-Evidentemente, tanto el emisor como el receptor debían utilizar la misma tabla.
+  
+  |Texto a cifrar| |    ADFGVX         |
+  | ------------ | | ----------------- |
+  | Sandra       | | GD DD GA DF DX DD |
+  
+  
+
+
+
 
