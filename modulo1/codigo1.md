@@ -39,11 +39,18 @@ Si ciframos la palabra Sandra seria:
   - En segundo lugar añadimos una palabra en clave para alterar el orden de las Columnas. 
 
   | Clave         | C L A V E|
+  | ------------- | -------- |
   | Texto a cifrar| G D D D G|
-                  | A D F D X|
-                  | D D      |
+  |               | A D F D X|
+  |               | D D      |
   
+  - En tercer lugar ordenamos alfabeticamente la palbra clave que hemos utilizado, arrastando con ella la columna completa: 
 
+|A C E L V|
+| ------- |
+|D G G D D|
+|F A X D D|
+|  D   D  |
 
 
 
