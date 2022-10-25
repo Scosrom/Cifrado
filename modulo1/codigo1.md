@@ -51,6 +51,13 @@ Si ciframos la palabra Sandra seria:
 |D G G D D|
 |F A X D D|
 |  D   D  |
+ 
+ - Y, finalmente, para obtener el texto cifrado leeríamos las columnas de izquierda a derecha y de arriba a abajo
 
+| CLAVE |
+| ----- |
+| DF, GA, DG, XD, DD, DD |
+
+Para descifrar el mensaje basta con seguir estos mismos pasos en sentido inverso. 
 
 
