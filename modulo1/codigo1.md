@@ -7,8 +7,7 @@
   ![FRITZ](https://user-images.githubusercontent.com/114906778/197826441-d6db9c33-ffe0-4639-88c7-2051d695e8b5.jpg)
 
   
-  Fue escogida por el Alto Mando alemán como la más segura para cifrar sus comunicaciones durante la Primera Guerra Mundial. Pero más tarde sería descifrada
-  por el criptógrafo francés **Georges Painvin**.
+  Fue escogida por el Alto Mando alemán como la más segura para cifrar sus comunicaciones durante la Primera Guerra Mundial. Pero más tarde sería descifrada por el criptógrafo francés **Georges Painvin**.
   
   ![georges](https://user-images.githubusercontent.com/114906778/197826499-1592ea7c-73f1-49ef-9b84-98652f8487ba.png)
 
@@ -21,7 +20,7 @@
   
   ## Método
   
-  se basaba en una tabla de 5 filas y 5 columnas. En las 25 cuadrículas (5 x 5) de esa tabla se colocaban de forma aleatoria las 26 letras del alfabeto inglés pero como hay una letra más que cuadrículas, la "I" y la "J" compartían una misma casilla.
+  Se basaba en una tabla de 5 filas y 5 columnas. En las 25 cuadrículas (5 x 5) de esa tabla se colocaban de forma aleatoria las 26 letras del alfabeto inglés pero como hay una letra más que cuadrículas, la "I" y la "J" compartían una misma casilla.
   
   ![Tabla ADFGX_1](https://user-images.githubusercontent.com/114906778/197818141-acd7f5d6-21ee-4b92-920f-4cfcd577832c.png)
   
@@ -29,7 +28,7 @@
   
   ### PASOS A SEGUIR PARA CIFRAR EN CÓDIGO ADFGVX
   
-  - En primer lugar sustituimos cada letra por su equivalente en la tabla. 
+  - **En primer lugar** sustituimos cada letra por su equivalente en la tabla. 
 
 Por ejemplo la letra "E" seria "FF"
 
@@ -41,7 +40,7 @@ Si ciframos la palabra Sandra seria:
   | ------------ | ----------------- |
   | Sandra       | GD DD GA DF DX DD |
   
-  - En segundo lugar añadimos una palabra en clave para alterar el orden de las Columnas. 
+  - **En segundo lugar** añadimos una palabra en clave para alterar el orden de las Columnas. 
 
   | Clave         | C L A V E|
   | ------------- | -------- |
@@ -49,7 +48,7 @@ Si ciframos la palabra Sandra seria:
   |               | A D F D X|
   |               | D D      |
   
-  - En tercer lugar ordenamos alfabeticamente la palbra clave que hemos utilizado, arrastando con ella la columna completa: 
+  - **En tercer lugar** ordenamos alfabeticamente la palbra clave que hemos utilizado, arrastando con ella la columna completa: 
 
 |A C E L V|
 | ------- |
