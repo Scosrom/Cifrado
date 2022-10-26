@@ -4,7 +4,10 @@
 
 - ## Introducción
 
-El cifrado es la base principal de la seguridad de datos. Es la forma más sencilla e importante para garantizar que la información de un sistema no pueda robarla ni leerla alguien a quien no va dirigida dicha información. Para acceder a dicha información antes tendría que descifrarla. Cuando el código es descifrado la seguridad se pierde ya que la información vuelve a estar accesible. Por ello se han inventado muchos códigos diferentes, cada uno con su nivel de seguridad y su propio método. 
+El cifrado es la base principal de la seguridad de datos. Es la forma más sencilla e importante para garantizar que la información de un sistema no pueda robarla ni leerla alguien a quien no va dirigida dicha información. Para cifrar se han inventado diferentes códigos a lo largo de la historia, estos códigos se utilizan para transformar la información legible a ilegible, de forma que para acceder a ella, antes se tendría que descifrar este código. 
+Cada código tiene un método diferente, intentando mejorar la seguridad, pero cuando este código es descifrado y se conoce el método, su nivel de seguridad baja ya que vuelve a ser una información accesible. 
+
+EL cifrado se ha utilizado en diferentes ámbitos a lo largo de la historia y en este trabajo vamos a nombrar dos tipos. 
 
 
 A continuación vamos a nombrar 2 códigos utilizados para cifrar información.
@@ -13,4 +16,13 @@ A continuación vamos a nombrar 2 códigos utilizados para cifrar información.
    - [Código2](modulo2/codigo2.md)
    
 - ## Referencias
+
+***Código ADFGVX***
+
+https://es.wikipedia.org/
+https://hmong.es/
+
 - ## Licencia
+
+![Licencia](https://user-images.githubusercontent.com/114906778/197954820-7ec0446a-9f2f-48ed-bdf0-96a48c920cc5.PNG)
+
