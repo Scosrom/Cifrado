@@ -27,10 +27,6 @@ AES opera en una matriz de 4×4 bytes, llamada state (algunas versiones de Rijnd
   
   ![image](subBytes.png)
   
-  ## Seguridad
-  
-  
-  
   **2.- ShiftRows:**  en este paso se realiza una transposición donde cada fila del «state» es rotada de manera cíclica un número determinado de veces.
   
   ![image](shiftRowa.png)
@@ -50,3 +46,19 @@ AES opera en una matriz de 4×4 bytes, llamada state (algunas versiones de Rijnd
   **2.- ShiftRows**
   
   **3.- AddRoundKey**
+  
+## Seguridad
+  
+Los criptógrafos están constantemente investigando AES en busca de debilidades, tratando de encontrar nuevas técnicas y aprovechando la tecnología que se les presenta. Esto es esencial, porque si los académicos no lo probaron a fondo, los delincuentes o los estados nacionales podrían encontrar una manera de descifrarlo sin que el resto del mundo lo supiera. Hasta ahora, los investigadores solo han descubierto rupturas teóricas y ataques de canal lateral.
+
+Hasta el momento no se han registrado ataques exitosos conocidos en la vida real, sin embargo, la rápida evolución de la tecnología podría plantear amenazas potenciales en el futuro.
+
+## Ejemplos de su uso
+
+- VPN (Redes Privadas Virtuales)
+- WIFI
+- Aplicaciones móviles
+- Herramientas de archivo y compresión
+- Componentes del sistema operativo
+- Bibliotecas de lenguajes de programación
+- Administradores de contraseñas
