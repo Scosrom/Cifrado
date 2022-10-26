@@ -27,6 +27,10 @@ AES opera en una matriz de 4×4 bytes, llamada state (algunas versiones de Rijnd
   
   ![image](subBytes.png)
   
+  ## Seguridad
+  
+  
+  
   **2.- ShiftRows:**  en este paso se realiza una transposición donde cada fila del «state» es rotada de manera cíclica un número determinado de veces.
   
   ![image](shiftRowa.png)
