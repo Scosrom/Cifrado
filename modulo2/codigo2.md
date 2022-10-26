@@ -19,22 +19,30 @@ AES opera en una matriz de 4×4 bytes, llamada state (algunas versiones de Rijnd
 - Expansión de la clave usando el esquema de claves de Rijndael.
 - Etapa inicial:
   
-  **1.-** AddRoundKey
+  **1.- AddRoundKey**
   
 - Rondas:
 
-  **1.-** SubBytes — en este paso se realiza una sustitución no lineal donde cada byte es reemplazado con otro de acuerdo a una tabla de búsqueda.
+  **1.- SubBytes:**  en este paso se realiza una sustitución no lineal donde cada byte es reemplazado con otro de acuerdo a una tabla de búsqueda.
   
-  **2.-** ShiftRows — en este paso se realiza una transposición donde cada fila del «state» es rotada de manera cíclica un número determinado de veces.
+  ![image](subBytes.png)
   
-  **3.-** MixColumns — operación de mezclado que opera en las columnas del «state», combinando los cuatro bytes en cada columna usando una transformación lineal.
+  **2.- ShiftRows:**  en este paso se realiza una transposición donde cada fila del «state» es rotada de manera cíclica un número determinado de veces.
   
-  **4.-** AddRoundKey — cada byte del «state» es combinado con la clave «round»; cada clave «round» se deriva de la clave de cifrado usando una iteración de la clave.
+  ![image](shiftRowa.png)
+  
+  **3.- MixColumns:**  operación de mezclado que opera en las columnas del «state», combinando los cuatro bytes en cada columna usando una transformación lineal.
+  
+  ![image](mixColumns.png)
+  
+  **4.- AddRoundKey:**  cada byte del «state» es combinado con la clave «round»; cada clave «round» se deriva de la clave de cifrado usando una iteración de la clave.
+  
+  ![image](addRoundkey.png)
 
 - Etapa final:
 
-  **1.-** SubBytes
+  **1.- SubBytes**
   
-  **2.-** ShiftRows
+  **2.- ShiftRows**
   
-  **3.-** AddRoundKey
+  **3.- AddRoundKey**
