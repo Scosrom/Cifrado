@@ -10,10 +10,19 @@ Cada código tiene un método diferente, intentando mejorar la seguridad, pero c
 EL cifrado se ha utilizado en diferentes ámbitos y en este trabajo vamos a nombrar dos tipos. 
 
 - ## Contenidos
+
    - [Código ADFGVX](modulo1/codigo1.md)
-   - [Código2](modulo2/codigo2.md)
+   - [Código AES](modulo2/codigo2.md)
    
 - ## Referencias
+
+
+     ***Código AES***
+
+     [Wikipedia](https://es.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
+     [CiberSeguridad](https://ciberseguridad.com/guias/prevencion-proteccion/criptografia/cifrado-aes/)
+     
 
 ***Código ADFGVX***
 
